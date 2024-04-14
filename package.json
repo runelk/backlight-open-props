@@ -1,0 +1,17 @@
+{
+  "name": "@backlight-dev/unadvised-dirt-va1r0.open-props-luz1mngm",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve dKYFAhLYH81QPfwk6mCq --open"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "open-props": "^1.0.13",
+    "@divriots/dockit-core": "*",
+    "lit": "*"
+  }
+}
